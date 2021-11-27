@@ -19,7 +19,7 @@ item:
     7: ping-pong，10: badminton
 '''
 reserve_data = {
-    'reservetime': '2021-11-26 11:30-12:30',
+    'reservetime': '2021-11-29 19:00-20:00',
     'item': 7,
-    'phone': '*****'
+    'phone': '******'
 }
