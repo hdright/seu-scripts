@@ -10,7 +10,7 @@
 
 ## 3 Use Case
 
-参考 template_config.py，编写配置文件 config.py。
+首先编写配置文件 config.py。
 
 1. 讲座预约
     python main.py
