@@ -6,7 +6,7 @@
 
 ## 2 Install
 
-依赖: requests, js2py, bs4, pytesseract
+依赖: requests, js2py, bs4, ddddocr
 
 ## 3 Use Case
 
@@ -17,3 +17,6 @@
 
 2. 场馆预约
     python reserve.py
+
+3. 每日健康申报
+    nohup python daily_post.py > daily_post.log &
